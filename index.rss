@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="text">News</title>
+    <entry>
+        <id>https://stackoverflow.com/q/67814180</id>
+        <title type="text">Pushing Styles into Style.CSS</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <summary type="html">
+            We will push stuff from editor-style.css to style.css.
+        </summary>
+    </entry>
+</feed>
